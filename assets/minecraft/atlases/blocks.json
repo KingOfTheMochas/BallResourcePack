@@ -1,0 +1,9 @@
+{
+	"sources": [
+		{
+			"type": "directory",
+			"source": "plumb_and_square",
+			"prefix": "plumb_and_square/"
+		}
+	]
+}

@@ -4,6 +4,11 @@
 			"type": "directory",
 			"source": "plumb_and_square",
 			"prefix": "plumb_and_square/"
+		},
+		{
+			"type": "directory",
+			"source": "sigils",
+			"prefix": "sigils/"
 		}
 	]
 }

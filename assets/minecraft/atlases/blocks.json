@@ -9,6 +9,11 @@
 			"type": "directory",
 			"source": "sigils",
 			"prefix": "sigils/"
+		},
+		{
+			"type": "directory",
+			"source": "fruits",
+			"prefix": "fruits/"
 		}
 	]
 }
